@@ -1,1 +1,2 @@
 # -Optimization-process-of-gradient-based-methods
+First, we gained some insight into the optimization process of gradient based methods. In particular, this section we implemented different variations of gradient descent and analyzed their impact on the convergence speed. In the second part of the assignment, we were experimenting with text data. We explored text-specific preprocessing techniques, and to reapplied concepts such as cross-validation that are central to machine learning. In both sections, we performed binary classification with Logistic Regression.
